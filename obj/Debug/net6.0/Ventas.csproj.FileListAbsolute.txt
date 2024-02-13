@@ -1,0 +1,88 @@
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cs
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\appsettings.json
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.staticwebassets.runtime.json
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.exe
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.deps.json
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.runtimeconfig.json
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.dll
+C:\Users\sebas\Desktop\Ventas\Ventas\bin\Debug\net6.0\Ventas.pdb
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.Ventas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.build.Ventas.props
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ventas.props
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ventas.props
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\scopedcss\bundle\Ventas.styles.css
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\scopedcss\projectbundle\Ventas.bundle.scp.css
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.dll
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\refint\Ventas.dll
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.pdb
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\Ventas.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Ventas\Ventas\obj\Debug\net6.0\ref\Ventas.dll
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\appsettings.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.staticwebassets.runtime.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.exe
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.deps.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.runtimeconfig.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.dll
+C:\Users\NACHO\Downloads\Ventas\Ventas\bin\Debug\net6.0\Ventas.pdb
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.AssemblyReference.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfoInputs.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfo.cs
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cs
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.Ventas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.build.Ventas.props
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ventas.props
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ventas.props
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\scopedcss\bundle\Ventas.styles.css
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\scopedcss\projectbundle\Ventas.bundle.scp.css
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.dll
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\refint\Ventas.dll
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.pdb
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\Ventas.genruntimeconfig.cache
+C:\Users\NACHO\Downloads\Ventas\Ventas\obj\Debug\net6.0\ref\Ventas.dll
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\appsettings.Development.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\appsettings.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.staticwebassets.runtime.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.exe
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.deps.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.runtimeconfig.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.dll
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\bin\Debug\net6.0\Ventas.pdb
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.AssemblyReference.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfoInputs.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.AssemblyInfo.cs
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.csproj.CoreCompileInputs.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.MvcApplicationPartsAssemblyInfo.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.RazorAssemblyInfo.cs
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.build.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\staticwebassets.development.json
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\scopedcss\bundle\Ventas.styles.css
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\scopedcss\projectbundle\Ventas.bundle.scp.css
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.dll
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\refint\Ventas.dll
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.pdb
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\Ventas.genruntimeconfig.cache
+D:\FACULTAD\7. Herramientas de Programación\Ventas\Ventas\obj\Debug\net6.0\ref\Ventas.dll

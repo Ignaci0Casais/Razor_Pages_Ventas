@@ -1,0 +1,28 @@
+﻿@page
+@model Ventas.Pages.IndexModel
+
+<div>
+    <a href="Nuevo">Nueva venta</a>
+</div>
+
+@{
+    var listado = Model.Listado.ObtenerTodos();
+
+    if (listado.Count() == 0)
+    {
+        <h2>No hay ventas</h2>
+    }
+    else
+    {
+        foreach (var item in listado)
+        {
+            <div>
+                <h2>@item.Nombre</h2>
+                <p>@item.Descripcion</p>
+                <a href="Detalle?Id=@item.Id">Ver</a>
+                <a href="Editar?Id=@item.Id">Editar</a>
+                <a href="Borrar?Id=@item.Id">Borrar</a>
+            </div>
+        }
+    }
+}

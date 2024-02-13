@@ -1,0 +1,41 @@
+﻿@page
+@model Ventas.Pages.NuevoModel
+<!--
+   Cosas a tener en cuenta en el procesamiento de un formulario!!!!
+
+   * <form action="" method="post">
+   * OnPost() dentro del model
+   * Cada <input> DEBE tener el atributo 'name'
+-->
+
+<form action="" method="post">
+    <div>
+        <span>Id</span>
+        <input type="text" name="Id" />
+    </div>
+    <div>
+        <span>Fecha</span>
+        <input type="datetime" name="Fecha" />
+    </div>
+    <div>
+        <span>Precio</span>
+        <input type="number" name="Precio" />
+    </div>
+    <div>
+        <span>Cantidad</span>
+        <input type="number" name="Cantidad" />
+    </div>
+        <div>
+        <span>Nombre</span>
+        <input type="text" name="Nombre" />
+    </div>
+    <div>
+        <span>Descripcion</span>
+        <input type="text" name="Descripcion" />
+    </div>
+    <div>
+        <span>Vendedor</span>
+        <input type="text" name="Vendedor" />
+    </div>
+   <button>Enviar</button>
+</form>

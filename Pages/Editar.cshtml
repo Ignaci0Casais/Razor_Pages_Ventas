@@ -1,0 +1,44 @@
+﻿@page
+@model Ventas.Pages.EditarModel
+
+@{
+
+    if (Model.Venta == null)
+    {
+        <p>Venta no encontrada</p>
+    }
+    else
+    {
+        <form action="" method="post">
+            <div>
+                <span>Id</span>
+                <input type="text" name="Id" value="@Model.Venta.Id" />
+            </div>
+            <div>
+                <span>Fecha</span>
+                <input type="datetime" name="Fecha" value="@Model.Venta.Fecha" />
+            </div>
+            <div>
+                <span>Precio</span>
+                <input type="number" name="Precio" value="@Model.Venta.Precio" />
+            </div>
+            <div>
+                <span>Cantidad</span>
+                <input type="number" name="Cantidad" value="@Model.Venta.Cantidad" />
+            </div>
+            <div>
+                <span>Nombre</span>
+                <input type="text" name="Nombre" value="@Model.Venta.Nombre" />
+            </div>
+            <div>
+                <span>Descripcion</span>
+                <input type="text" name="Descripcion" value="@Model.Venta.Descripcion" />
+            </div>
+            <div>
+                <span>Vendedor</span>
+                <input type="text" name="Vendedor" value="@Model.Venta.Vendedor" />
+            </div>
+            <button>Enviar</button>
+        </form>
+    }
+}

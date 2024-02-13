@@ -1,0 +1,15 @@
+﻿Desarrollar una aplicación Razor de gestión de ventas. Una venta tiene una fecha, una descripción, un nombre de artículo, un monto, un precio y un vendedor.
+La aplicación deberá constar de dos vistas. La vista inicial deberá mostrar un listado de todas las ventas y un botón "Nueva venta". Al hacer click en "Nueva venta" se deberá navegar hacia un formulario de creación de una nueva venta, en donde se pedirán todos los campos. Al confirmar los cambios y enviar el formulario, deberá redirigirse a la página inicial en donde deberán verse reflejados dichos cambios.
+
+(3hs)
+
+Requisitos mínimos (>= 4)
+* 1 página maestro con el listado de la entidad (Leer todos) => Index
+* 1 página de alta de dicha entidad (Crear) => Nuevo
+* Los datos guardados en memoria (Singleton)
+* Ante un cambio, se debe redirigir a la página de inicio.
+
+Para sumar nota
+* Agregar a la página maestro el botón de borrar (Borrar) *** => Index
+* Agregar una página detalle (Leer uno) ***		=> Detalle
+* Agregar un formulario de edición (Editar) ****	=> Editar
